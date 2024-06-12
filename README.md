@@ -1,6 +1,6 @@
 # Hi there!👋🏻 I'm Preksha Mahajan.
 
-- I'm a 2nd year Computer Science Engineering student at Chitkara University, Punjab.
+- I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
 - I'm also the Community Lead at [Open Source Chandigarh](https://github.com/Open-Source-Chandigarh).
 - I'm currently learning Data Structures and Algorithms in C++.
 - I aspire to become a proficient and innovative software engineer, constantly learning and adapting to the latest technological advancements.
