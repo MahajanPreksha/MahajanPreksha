@@ -2,7 +2,6 @@
 
 - Mentor at [Open Source Chandigarh](https://github.com/Open-Source-Chandigarh)
 - Pre-Final Year CSE student at Chitkara University, Punjab
-- Learning DSA and MERN
 - Loves speaking on Open Source, Programming and Tech Communities
 
 ## Tech Stack👩🏻‍💻
