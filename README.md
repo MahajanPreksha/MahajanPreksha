@@ -1,5 +1,6 @@
 # Hi there!👋🏻 I'm Preksha Mahajan.
 
+- Software Engineer Intern at [Nielsen](https://www.linkedin.com/company/nielsen/)
 - Mentor at [Open Source Chandigarh](https://github.com/Open-Source-Chandigarh)
 - Pre-Final Year CSE student at Chitkara University, Punjab
 - Loves speaking on Open Source, Programming and Tech Communities
